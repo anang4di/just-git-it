@@ -8,12 +8,6 @@ Repository ini dibuat untuk keperluan **tugas belajar Git** dalam bootcamp **dev
 - `git commit`
 - `git push`
 
-## Project Structure
-
-Repository ini hanya berisi **satu file**, yaitu:
-
-- `test1.txt` — file latihan yang digunakan untuk mencatat hasil percobaan edit, commit, dan push.
-
 ## How to Use
 
 1. **Clone repository**
